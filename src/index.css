@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app{
+    display: flex;
+    min-height: 100vh;
+    background-color: #181A1B;
+    color: #fafafa;
+}
+
+@font-face {
+    font-family: Technology;
+    src: url('./assets/Technology.otf');
+}
